@@ -1,15 +1,3 @@
-pegawai perusahaan saya memiliki akun buzzer setidaknya 50 akun di masing masing pegawai.
-pegawai saat ini terlalu tidak efisien dan ribet untuk mencari setiap link postingan serta wajib follow akun yang sesuai perintah.
-saya sebagai IT Support di berikan tugas untuk membuat website index.html cdn boostrap fokus ke view mobile karena rata rata pengguna hp mobile,
-yang dimana tugasnya adalah mengumpulkan semua link yang wajib di like dan komentar serta wajib follow akun.
-saya mau gunakan embed di setiap link postingan seperti contoh link ini "https://www.instagram.com/p/DHXXWFEy-69/"
-kasih slash /embed di belakangnya seperti ini "https://www.instagram.com/p/DHXXWFEy-69/embed", nanti implementasinya menggunakan iframe.
-supaya memudahkan user atau pegawai tracking udah sampe mana dia like dan komentar buat sebuah penanda di simpan pada local storage.
-penanda tersebut follow serta komen yang akan di klik oleh pegawai sendiri apakah menurut dia sudah melakukan tugasnya.
-
-
-
-saya sudah ada example jsonya bisa link atau file instagram.json saat ini file. berikut template example jsonnya:
 
 [
   {
